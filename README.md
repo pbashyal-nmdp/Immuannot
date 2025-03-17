@@ -168,6 +168,11 @@ bash ${script} -c ${ctg} -r ${refdir} -o ${outpref}
 Immuannot would output file "test-run.gtf.gz" for annotation and a folder named
 "test-run" for intermediate results.
 
+## A Running example (in Docker)
+
+See [example](example/README.md) of running it in Docker. 
+
+
 [\[top\]](#content)
 
 # Limitations
